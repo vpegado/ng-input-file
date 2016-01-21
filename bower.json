@@ -1,0 +1,28 @@
+{
+  "name": "ng-input-file",
+  "authors": [
+    "Victor Pegado <victor@pegado.se>"
+  ],
+  "description": "ngModel extension for input[type=file]",
+  "main": "src/ng-input-file.js",
+  "moduleType": [],
+  "keywords": [
+    "angular",
+    "input",
+    "file",
+    "ngmodel"
+  ],
+  "license": "MIT",
+  "homepage": "http://www.pegado.se",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.8"
+  }
+}

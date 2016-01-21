@@ -1,0 +1,1 @@
+../../src/ng-input-file.js

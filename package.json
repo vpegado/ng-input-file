@@ -1,0 +1,15 @@
+{
+  "name": "ng-input-file",
+  "version": "1.0.0",
+  "description": "ngModel extension for input[type=file]",
+  "main": "ng-input-file.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "cd example && python -m SimpleHTTPServer 2000"
+  },
+  "author": "Victor Pegado <victor@pegado.se>",
+  "license": "MIT"
+}
