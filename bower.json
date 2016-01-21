@@ -14,7 +14,7 @@
   ],
   "license": "MIT",
   "homepage": "http://www.pegado.se",
-  "private": true,
+  "private": false,
   "ignore": [
     "**/.*",
     "node_modules",
